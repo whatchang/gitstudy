@@ -1,2 +1,3 @@
-print("Hello python")
-print("How are you?")
+print("Hello world")
+print("how are you?")
+print("I'm fine")
